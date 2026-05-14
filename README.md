@@ -1,3 +1,3 @@
-This is a basic stock price screener
-It is built using Python
-Stock prices are updated using yfinance
+This is a basic stock price screener <br>
+It is built using Python <br>
+Stock prices are updated using yfinance <br>
